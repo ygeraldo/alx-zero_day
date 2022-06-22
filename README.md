@@ -1,2 +1,1 @@
-My first readme
-How to read
+My first hard work
