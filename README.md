@@ -1,2 +1,2 @@
 My first readme
-it is not easy to own this project but I have done it
+I hope I will find a solution today
