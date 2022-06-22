@@ -1,2 +1,1 @@
-My futur career
-First starting
+I'm just trying again
