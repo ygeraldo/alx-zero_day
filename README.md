@@ -1,3 +1,2 @@
 My first readme
-Work hard
-My first commit 
+How to read
